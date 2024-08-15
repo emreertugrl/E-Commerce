@@ -88,6 +88,8 @@ header div button:nth-child(3) {
 }
 .product {
   max-width: 250px;
+  justify-content: space-between;
+
   padding: 10px;
   display: flex;
   flex-direction: column;
